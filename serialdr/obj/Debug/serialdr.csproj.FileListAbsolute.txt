@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\serialdr\serialdr\bin\Debug\serialdr.exe.config
+C:\Users\hp\source\repos\serialdr\serialdr\bin\Debug\serialdr.exe
+C:\Users\hp\source\repos\serialdr\serialdr\bin\Debug\serialdr.pdb
+C:\Users\hp\source\repos\serialdr\serialdr\obj\Debug\serialdr.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\serialdr\serialdr\obj\Debug\serialdr.Form1.resources
+C:\Users\hp\source\repos\serialdr\serialdr\obj\Debug\serialdr.Properties.Resources.resources
+C:\Users\hp\source\repos\serialdr\serialdr\obj\Debug\serialdr.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\serialdr\serialdr\obj\Debug\serialdr.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\serialdr\serialdr\obj\Debug\serialdr.exe
+C:\Users\hp\source\repos\serialdr\serialdr\obj\Debug\serialdr.pdb
